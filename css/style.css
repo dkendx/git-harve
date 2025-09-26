@@ -5,3 +5,6 @@
     overflow: hidden;
     display: flex;
 }
+body{
+    background-color: #888;
+}
